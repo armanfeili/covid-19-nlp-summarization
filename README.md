@@ -1,13 +1,13 @@
 # covid-19-nlp-summarization
-This project generates both extractive and abstractive summaries from a comprehensive report of covid-19 condition in the desired country.
+This project provides the facility of generating a quick and meaningful summary to make it possible for all readers to get notified about their country's Covid-19 condition just by taking a glance at a single paragraph.
 
 ## Step-1
 Download all necessary CSV files from the links below and put the files in the sources folder.
 
-download [owid-covid-data.csv] from:
+Download [owid-covid-data.csv] from:
 https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
 
-download the following files:
+Download the following files:
 [by-sex.csv]
 [by-age.csv]
 [demographics.csv]
@@ -16,17 +16,22 @@ download the following files:
 [oxford-government-response.csv]
 [hospitalizations.csv]
 
-from:
+From:
 https://health.google.com/covid-19/open-data/raw-data
 
+Place all CSV files in the 'sources' directory.
+
 ## Step-2
-download and install the following python dependancies:
+Download and install the following python dependencies:
 pandas
 spacy
+transformers
+happytransformer
+collections
 pytorch
 tensorflow
 
 ## Step-3
-Run the 'covid-data.ipynb' file in jupyter editor and execute every cell one by one.
+Run the 'covid-19-report-generator.ipynb' file in the jupyter editor and execute every cell one by one.
 
 
