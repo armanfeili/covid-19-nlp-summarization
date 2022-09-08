@@ -1,4 +1,0 @@
-Extractive Summarization:
-
-It has been acuired by the following formula: total number of deaths due to covid-19 divided by total number of confirmed cases since the beginning of outbreak (it shows that how lethal covid-19 is in the country).
-The number of new confirmed females reported on same day is 17285, which means 0.010337 precent of female population in the country. . It has been achieved by the following formula: total number of covid-19 cases divided by total population since the beginning of outbreak.  
