@@ -1,0 +1,44 @@
+Here is the comprehensive covid-19 report in Italy on date: 2022-08-09: 
+
+Due to the difference in reporting times between states, territories, and the federal government, it can be challenging to get a current picture of the pandemic in Italy. 
+Here we have brought together data on cases, deaths, hospitalizations, and vaccinations.
+As the latest data suggests, 21368480 total cases have been reported. Unfortunately, Italy has more infection rates than the worldwide infection rates. ( 36.071 for the Italy compared to 7.415 worldwide.) The newly reported cases are around 328. 43078 . In contrast to the world data, Italy has a more new case rate.
+Regarding the decedents, Italy has lost a total of 173426 residents due to Covid-19. However, Italy has more death rate than the world data. 177 new deaths in the country were reported from national data. On the contrary, Italy has a more new death rate than the worldwide data.
+Turning to the present state of vaccination, we must note some crucial data! First of all, 139981493 numbers of vaccines have been injected, creating the total vaccination number.  It means that Italy has more vaccination rate than the worldwide data, which is good news! Furthermore, the number of people who received the vaccine is nearly 50821463 . Therefore, the number of people who are fully vaccinated and receive all doses is about 47958097 . Not to mention that the new vaccinations have been reported around 34289 times.
+The other outstanding data is about the hospitals of the country. The number of hospital beds per a thousand people has been reported to be about 4 beds. Moreover, the total number of ICU patients has been declared to be around 331 patients. Besides, the count for total hospital patients is 9147 patients in the whole country.
+Other substantial data is the number of Covid-19 tests people have taken. Up to this moment, the total number of publicly announced tests is Approximately 224876148 . new tests stats, however, made the unique number 246512 times. On the other hand, 1 is calculated as the positive rate among all tests. 
+Now it is time to reveal some remarkable data based on the demography of Italy: The reported infection risk for the country is: 36.07 . Total number of covid-19 cases divided by total population since the beginning of the outbreak. 
+The country's announced case fatality rate (CFR) is 0.81 . The following formula acquired the CFR: Total number of Deaths due to Covid-19 divided by the total number of confirmed cases since the beginning of the outbreak (It shows how lethal covid-19 is in the country). 
+The issued test percentage for the country is 379.6 . The following formula has achieved it: The total number of tests divided by the total population. 
+The released vaccination percentage for the country is 85.79 . The following formula has acquired it: Total number of vaccinated people divided by the total population. 
+The average number of vaccination per person in the country is 2.36 . The following formula has achieved it: The total number of vaccination divided by the total population. 
+To the current condition caused by the virus in Italy, Other vital information related to Covid-19 in the country is as follows. 
+The latest reproduction rate is declared as 1 . The updated stringency index is issued as 19.22 . The most recent life expectancy stage is reported as 83.51 . human development index, in addition, is announced as 0.892 . Besides, excess mortality in Italy is 5.61 . 
+
+
+Also noteworthy is that this country's new and current cases based on hospitalization are available. 
+The number of currently hospitalized patients, however, is reported as 10925 . Moreover, the number of current intensive care patients (ICU) is 398 .
+
+
+A more general glance at the state of health in the country reveals the following data:
+Life expectancy is reported as 83.4 . Smoking prevalence is reported as  23.7 . Diabetes prevalence is reported as  5.0 . The infant mortality rate is reported as  2.6 . The pollution mortality rate is reported as  15.0 . The comorbidity mortality rate is reported as  9.5 . Nurses per 1000 is reported as  5.7401 . Physicians per 1000 is reported as  3.9774 . Health expenditure usd is reported as  2840.130615 . Out-of-pocket health expenditure USD is reported as  667.027588 . 
+
+Based on the intensity of infection of the Covid-19 virus, governments adopted policies that helped societies to be saved from contagion. Here is more specific reported information on such policies.
+closing schools is recommended.
+closing workplaces was required at some levels.
+No restriction was reported on canceling public events on this date.
+No restriction was reported on gatherings on this date.
+No restriction was reported on public transport closure on this date.
+No restriction was reported on staying at home on this date.
+No restriction was reported on internal movements on this date.
+No restriction was reported on controlling international travel on this date.
+There are no fiscal measures reported.
+There is no international support reported.
+The number of public information campaigns is: 2.
+The number of testing policies is: 3.
+The number of contact tracing is : 2.
+There is no emergency investment in healthcare reported.
+There is no investment in vaccines reported.
+The number of facial coverings is 2.
+The number of vaccination policy is : 5.
+The percentage of stringency index is : 22.22.

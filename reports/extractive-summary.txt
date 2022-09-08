@@ -1,0 +1,8 @@
+Extractive Summarization:
+
+The following formula acquired the cfr: total number of deaths due to covid-19 divided by the total number of confirmed cases since the beginning of the outbreak (it shows how lethal covid-19 is in the country).
+Total number of covid-19 cases divided by total population since the beginning of the outbreak.
+The following formula has acquired it: total number of vaccinated people divided by the total population.
+The following formula has achieved it: the total number of vaccination divided by the total population.
+The following formula has achieved it: the total number of tests divided by the total population.
+Now it is time to reveal some remarkable data based on the demography of italy: the reported infection risk for the country is: 36.07 . A more general glance at the state of health in the country reveals the following data: life expectancy is reported as 83.4 . As the latest data suggests, 21368480 total cases have been reported. 177 new deaths in the country were reported from national data. The number of hospital beds per a thousand people has been reported to be about 4 beds.
