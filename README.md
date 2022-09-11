@@ -1,4 +1,4 @@
-# covid-19-nlp-summarization
+# Generating and Summarizing worldwide Covid-19 reports using Abstractive and Extractive NLP
 This project provides the facility of generating a quick and meaningful summary to make it possible for all readers to get notified about their country's Covid-19 condition just by taking a glance at a single paragraph.
 
 ## Step-1
