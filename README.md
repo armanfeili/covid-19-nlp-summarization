@@ -29,7 +29,7 @@ transformers,
 happytransformer,
 collections,
 pytorch,
-tensorflow,
+tensorflow
 
 ## Step-3
 Run the 'covid-19-report-generator.ipynb' file in the jupyter editor and execute every cell one by one.
