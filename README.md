@@ -23,13 +23,13 @@ Place all CSV files in the 'sources' directory.
 
 ## Step-2
 Download and install the following python dependencies:
-pandas
-spacy
-transformers
-happytransformer
-collections
-pytorch
-tensorflow
+pandas,
+spacy,
+transformers,
+happytransformer,
+collections,
+pytorch,
+tensorflow,
 
 ## Step-3
 Run the 'covid-19-report-generator.ipynb' file in the jupyter editor and execute every cell one by one.
