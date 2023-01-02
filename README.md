@@ -1,6 +1,9 @@
 # Generating and Summarizing worldwide Covid-19 reports using Abstractive and Extractive NLP
 This project provides the facility of generating a quick and meaningful summary to make it possible for all readers to get notified about their country's Covid-19 condition just by taking a glance at a single paragraph.
 
+The scientific paper for this code is available at the following link:
+https://www.linkedin.com/in/arman-feili-89b622132/details/featured/1635512059212/single-media-viewer/?profileId=ACoAACB73HcBYrHj3VrRAoEZHyPHciZet35eNrg
+
 ## Step-1
 Download all necessary CSV files from the links below and put the files in the sources folder.
 
